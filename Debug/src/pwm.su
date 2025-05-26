@@ -1,0 +1,4 @@
+pwm.c:4:6:pwm_gpio_init	4	static
+pwm.c:11:6:init_tim2_as_pwm	4	static
+pwm.c:23:6:pwm_init_tim1	8	static
+pwm.c:45:6:pwm_transform	16	static

@@ -1,0 +1,9 @@
+ds18b20.c:3:6:delay	24	static
+ds18b20.c:7:6:reset_ds18b20	8	static
+ds18b20.c:17:9:readbit_ds18b20	16	static
+ds18b20.c:28:9:readbyte_ds18b20	16	static
+ds18b20.c:36:6:writebit_ds18b20	16	static
+ds18b20.c:46:6:writebyte_ds18b20	24	static
+ds18b20.c:54:6:ConvertT	8	static
+ds18b20.c:62:6:ReadScratchpad	32	static
+ds18b20.c:71:7:convert_ds18b20	24	static
